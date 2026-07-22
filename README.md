@@ -38,6 +38,10 @@ Additional Photos and Videos :
 # Wiring Diagram 
 ![Robotic Arm Wiring Diagram](https://github.com/user-attachments/assets/e0186581-dcc5-403a-8729-a86e49285516)
 
+# Wokwi_Simulation
+
+https://wokwi.com/projects/470276639610557441
+
 ## Pin Configuration
 
 | Component | Pin Connection |
