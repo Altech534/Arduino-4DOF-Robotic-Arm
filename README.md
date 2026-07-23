@@ -70,10 +70,10 @@ This structure is currently a fully functional prototype. A future version will 
 # Software
 The robotic arm was programmed using Arduino C++. The program reads the inputs of the analog joystick and rotary encoder inputs, and converts them into servo position changes.
 
-# Challenges & Future Improvments 
+# Challenges & Future Improvements 
 
 Challenges
--The largest challenge was building the structure for the arm and finding a stable enough material that wouldn't weigh to much dragging the arm downward. Attaching the servo horn to the arm joints was also a large challenge. Input control was another important challenge, adjusting the joystick and encoder sensitivity to create smoother movement
+-The largest challenge was building the structure for the arm and finding a stable enough material that wouldn't weigh too much dragging the arm downward. Attaching the servo horn to the arm joints was also a large challenge. Input control was another important challenge, adjusting the joystick and encoder sensitivity to create smoother movement
 
 Future Improvements 
 -Create custom PCB
